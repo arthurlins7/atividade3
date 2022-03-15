@@ -1,8 +1,8 @@
 all:
-	gcc testprogram.c -o test
+	gcc atividade3.c -o atividade3
 	
 run:
-	./test
+	./atividade3
 
 clean:
-	rm test
+	rm atividade3
